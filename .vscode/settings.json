@@ -1,5 +1,9 @@
 {
     "conventionalCommits.scopes": [
-        "README"
-    ]
+        "README",
+        "Multiplication_table_for_number"
+    ],
+    "files.watcherExclude": {
+        "**/target/**": true
+    }
 }
