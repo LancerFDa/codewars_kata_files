@@ -1,7 +1,9 @@
 {
     "conventionalCommits.scopes": [
         "README",
-        "Multiplication_table_for_number"
+        "Multiplication_table_for_number",
+        "Square Every Digit",
+        "square_every_digit"
     ],
     "files.watcherExclude": {
         "**/target/**": true
