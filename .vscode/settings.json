@@ -6,7 +6,8 @@
         "square_every_digit",
         "create_phone_number",
         "string_repeat",
-        "scramblies"
+        "scramblies",
+        "gitignore"
     ],
     "files.watcherExclude": {
         "**/target/**": true
