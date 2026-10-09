@@ -4,7 +4,8 @@
         "Multiplication_table_for_number",
         "Square Every Digit",
         "square_every_digit",
-        "create_phone_number"
+        "create_phone_number",
+        "string_repeat"
     ],
     "files.watcherExclude": {
         "**/target/**": true
