@@ -5,7 +5,8 @@
         "Square Every Digit",
         "square_every_digit",
         "create_phone_number",
-        "string_repeat"
+        "string_repeat",
+        "scramblies"
     ],
     "files.watcherExclude": {
         "**/target/**": true
