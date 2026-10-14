@@ -9,7 +9,8 @@
         "scramblies",
         "gitignore",
         "permute_a_palindrome",
-        "convert_to_camel_case"
+        "convert_to_camel_case",
+        "duplicate_encode"
     ],
     "files.watcherExclude": {
         "**/target/**": true
