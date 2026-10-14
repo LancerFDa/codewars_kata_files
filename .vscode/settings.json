@@ -10,7 +10,8 @@
         "gitignore",
         "permute_a_palindrome",
         "convert_to_camel_case",
-        "duplicate_encode"
+        "duplicate_encode",
+        "sum_of_array_singles"
     ],
     "files.watcherExclude": {
         "**/target/**": true
