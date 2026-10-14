@@ -7,7 +7,8 @@
         "create_phone_number",
         "string_repeat",
         "scramblies",
-        "gitignore"
+        "gitignore",
+        "permute_a_palindrome"
     ],
     "files.watcherExclude": {
         "**/target/**": true
