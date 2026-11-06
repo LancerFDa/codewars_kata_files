@@ -11,7 +11,8 @@
         "permute_a_palindrome",
         "convert_to_camel_case",
         "duplicate_encode",
-        "sum_of_array_singles"
+        "sum_of_array_singles",
+        "loose_change"
     ],
     "files.watcherExclude": {
         "**/target/**": true
