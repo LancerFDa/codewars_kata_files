@@ -12,7 +12,8 @@
         "convert_to_camel_case",
         "duplicate_encode",
         "sum_of_array_singles",
-        "loose_change"
+        "loose_change",
+        "are_the_same"
     ],
     "files.watcherExclude": {
         "**/target/**": true
